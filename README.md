@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# This model is built using OpenAI API Responsive voice API and Three.js
+
+## You can use the change the hard coded server and the hard coded client adding your API key and try to chat with sophie
+
+## Also you can change the model by Getting a free fbx model from https://free3d.com/3d-models/
+
+Demo here:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
