@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/GPT3.5_3D-Model/static/css/main.60fb35f0.css",
+    "main.js": "/GPT3.5_3D-Model/static/js/main.a78bee31.js",
+    "static/js/787.796704e9.chunk.js": "/GPT3.5_3D-Model/static/js/787.796704e9.chunk.js",
+    "static/media/sophie.fbx": "/GPT3.5_3D-Model/static/media/sophie.6f06f567f6cb1d44a943.fbx",
+    "index.html": "/GPT3.5_3D-Model/index.html",
+    "main.60fb35f0.css.map": "/GPT3.5_3D-Model/static/css/main.60fb35f0.css.map",
+    "main.a78bee31.js.map": "/GPT3.5_3D-Model/static/js/main.a78bee31.js.map",
+    "787.796704e9.chunk.js.map": "/GPT3.5_3D-Model/static/js/787.796704e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60fb35f0.css",
+    "static/js/main.a78bee31.js"
+  ]
+}
